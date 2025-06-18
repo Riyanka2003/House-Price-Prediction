@@ -6,4 +6,7 @@ Description:-
 Use a dataset of house prices, split it into training and testing sets, and build a regression model using Scikit-learn.
 
 Technologies :-
-Python, Pandas, Scikit-learn, JupyterLab Notebook
+- Python for scripting.
+- Pandas for data manipulation.
+- Matplotlib for data visualization (Can be seen directly in JupyterLab Notebook).
+- Scikit-learn for model building and evaluation.
